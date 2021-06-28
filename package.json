@@ -1,7 +1,8 @@
+
 {
-  "name": "users",
+  "name": "@brother.bet/backend",
   "version": "1.0.0",
-  "private": true,
+  "description": "Brother Bet Backend",
   "scripts": {
     "build": "node ace build --production",
     "start": "node server.js",
